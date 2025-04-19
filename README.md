@@ -26,7 +26,7 @@ _I’m not a software guru, but I love tinkering and learning new technologies, 
 | Project                     | Description                                                             | Link                                                               |
 |-----------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------|
 | **Bose‑Homeassistant**      | Bose soundbar integration in Home Assistant (fork)                      | [Repo](https://github.com/Richardvaio/Bose-Homeassistant)          |
-| **overseerr**               | Media request management for Plex (Private fork)                        | [Repo](https://github.com/Richardvaio/overseerr)                   |
+| **overseerr**               | Media request management for Plex (fork)                                | [Repo](https://github.com/Richardvaio/overseerr)                   |
 | **Tautulli_Active_Streams** | Real‑time media activity dashboard                                      | [Repo](https://github.com/Richardvaio/Tautulli_Active_Streams)     |
 | **brands**                  | Home Assistant brand assets (fork)                                      | [Repo](https://github.com/Richardvaio/brands)                      |
 | **core**                    | Core Home Assistant platform (fork)                                     | [Repo](https://github.com/Richardvaio/core)                        |
